@@ -1,0 +1,30 @@
+html{
+  background-color: #0056bb;
+}
+
+
+p.intro {
+  font-style: italic;
+  color: red;
+  font-size: 20px
+
+}
+
+h3.intro {
+  font-size: 45px;
+}
+
+.title {
+  font-size: 70px;
+}
+
+.red{
+  color: red;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+img {
+  float: left;
+  border-radius: 30px;
+}
